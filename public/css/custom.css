@@ -1,4 +1,9 @@
+/* nav bar css*/
+.navbar-brand img{
+    height: 40px;
+}
 
+/* portfolio page customization */
 .portfolio-card{
     max-width: 350px!;
 }
@@ -15,6 +20,33 @@
         width: 300px!;
     }
 }
+/* Service page customization */
+
+.service-card{
+    max-width: 350px!;
+}
+.service-card .card-body{
+    background-color: rgb(205, 182, 182);
+    text-align: center;
+}
+.service-card .btn{
+    background-color: crimson;
+}
+@media screen and (max-width: 400px) {
+    
+    .service-card{
+        width: 300px!;
+    }
+}
+
+/* link inside address of service page  */
+.service-page-address a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* footer customization */
 .footer-top{
     background-color: antiquewhite;
     text-align: center;

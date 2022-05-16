@@ -1,0 +1,30 @@
+
+.portfolio-card{
+    max-width: 350px!;
+}
+.portfolio-card .card-body{
+    background-color: rgb(216, 144, 144);
+    text-align: center;
+}
+.portfolio-card .btn{
+    background-color: crimson;
+}
+@media screen and (max-width: 400px) {
+    
+    .portfolio-card{
+        width: 300px!;
+    }
+}
+.footer-top{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.footer-bottom{
+    background-color: black;
+    text-align: center;
+    height: 50px;
+}
+.footer-bottom p{
+    padding-top: 15px;
+    color: wheat;
+}

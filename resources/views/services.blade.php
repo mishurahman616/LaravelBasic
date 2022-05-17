@@ -3,11 +3,19 @@
 
 @section('content')
 <div class="container">
-    <div class="row">
+  <br>
+  <div class="row m-auto content-title-div rounded-4">
+        <div class="col-md-12">
+            <h5 class="content-title text-center">My Service </h5>
+
+        </div>
+    </div>
+
+    <div class="row">      
         @for($i=0; $i<3; $i++)
-        <div class="col-md-3 p-2 m-auto">
+        <div class="col-md-4 p-2 m-auto">
             <div class="card service-card" style="width: 100%;">
-                <img src="{{asset('images/project.png')}}" class="card-img-top" alt="...">
+                <img src="{{asset('images/service.png')}}" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Service {{$i+1}}</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>

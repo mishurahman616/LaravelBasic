@@ -1,8 +1,28 @@
 /* nav bar css*/
+.navbar{
+    background-color: rgb(157, 0, 242);
+    text-decoration: none;
+    color: white!;
+    font-weight: bold;
+}
+.nav-link{
+    color: white;
+}
+.nav-item>.active{
+    color: blue;
+}
 .navbar-brand img{
     height: 40px;
 }
+.content-title-div{
+   
+    background-color: rgb(102, 59, 243);
+}
+.content-title{
 
+    padding: 20px 0 20px 0;
+    color: white;
+}
 /* portfolio page customization */
 .portfolio-card{
     max-width: 350px!;
@@ -59,4 +79,8 @@
 .footer-bottom p{
     padding-top: 15px;
     color: wheat;
+}
+.about-text{
+    text-align: justify;
+    text-justify: inter-word;
 }

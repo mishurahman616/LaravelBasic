@@ -1,7 +1,15 @@
 @extends('layout.app')
 @section('title', 'Portfolio')
+
 @section('content')
 <div class="container">
+  <br>
+  <div class="row m-auto content-title-div rounded-4">
+    <div class="col-md-12">
+        <h5 class="content-title text-center">My Portfolio </h5>
+
+    </div>
+</div>
     <div class="row">
 
         @for($i=0; $i<8; $i++)

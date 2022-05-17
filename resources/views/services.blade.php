@@ -12,7 +12,7 @@
     </div>
 
     <div class="row">      
-        @for($i=0; $i<3; $i++)
+        @for($i=0; $i<6; $i++)
         <div class="col-md-4 p-2 m-auto">
             <div class="card service-card" style="width: 100%;">
                 <img src="{{asset('images/service.png')}}" class="card-img-top" alt="...">

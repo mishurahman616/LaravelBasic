@@ -9,10 +9,9 @@
         <h5 class="content-title text-center">My Portfolio </h5>
 
     </div>
-</div>
-    <div class="row">
-
-        @for($i=0; $i<8; $i++)
+  </div>
+  <div class="row">
+      @for($i=0; $i<8; $i++)
         <div class="col-md-3 p-2">
             <div class="card portfolio-card" style="width: 100%;">
                 <img src="{{asset('images/project.png')}}" class="card-img-top" alt="...">
@@ -23,10 +22,9 @@
                 </div>
               </div>
         </div>
-        @endfor
-
-       
-    </div>
+      @endfor
+  </div>
+  
 </div>
 
 @endsection

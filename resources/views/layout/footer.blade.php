@@ -1,5 +1,5 @@
 <div class="container">
-    <div class="row footer-top">
+    <div class="row footer-top m-auto">
         <div class="col-md-3">
             <h5>Follow Me</h5>
             <a href="#">Link 1</a><br />
@@ -29,7 +29,7 @@
             <a href="#">Link 4</a><br />
         </div>
     </div>
-    <div class="row footer-bottom">
+    <div class="row footer-bottom m-auto">
         <p>&copy; 2022. Mishu Rahman</p>
     </div>
 </div>

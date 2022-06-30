@@ -9,7 +9,7 @@
 
 
 <p>
-![HomePage](/public/images/HomePage.jpeg)
+![HomePage](https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/HomePage.jpeg)
 </p>
 
 ## About Laravel

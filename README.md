@@ -9,7 +9,8 @@
 
 
 <p>
-![HomePage](https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/HomePage.jpeg)
+<img src="https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/HomePage.jpeg" alt="Home Page Image"></img>
+
 </p>
 
 ## About Laravel

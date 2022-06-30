@@ -7,12 +7,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Home Page
 
 <p>
-<img src="https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/HomePage.jpeg" alt="Home Page Image"></img>
+<img src="https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/HomePage.jpeg" alt="Home Page Image" ></img>
 
 </p>
+# Servcie Page
 
+<p>
+<img src="https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/ServicePage.jpeg" alt="Home Page Image" ></img>
+
+</p>
+# PortFolio Page
+
+<p>
+<img src="https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/PortfolioPage.jpeg" alt="Home Page Image" ></img>
+
+</p>
+# About Page
+
+<p>
+<img src="https://github.com/mishurahman616/LaravelBasicProject/blob/master/public/images/AboutPage.jpeg" alt="Home Page Image" ></img>
+
+</p>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
